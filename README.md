@@ -4,9 +4,9 @@ Optional project of the [Streaming Data Analytics](http://emanueledellavalle.org
 
 Student: **[To be assigned]**
 
-The project will use the Java library tinyMOA-lite1 on a Raspberry Pi simulator to solve a classification task. The aim is to train several models on tinyMOA-lite on a Raspberry Pi simulator and to compare their performance w.r.t. the relative models trained on River and MOA.
+The project will use the [Java library tinyMOA-lite](https://www.politesi.polimi.it/handle/10589/201696) on a Raspberry Pi simulator to solve a classification task. The aim is to train several models on tinyMOA-lite on a Raspberry Pi simulator and to compare their performance w.r.t. the relative models trained on River and MOA.
 
-More in practice, for the AI4I 2020 Predictive Maintenance Dataset2, you have to train and test the Naïve Bayes, KNN, HT, HAT, ARF, Online Bagging, Leveraging Bagging, ARF, and SRP models in tinyMOA-lite on a Raspberry Pi simulator, and in MOA and River on your Pc.
+More in practice, for the [AI4I 2020 Predictive Maintenance Dataset](https://archive.ics.uci.edu/dataset/601/ai4i+2020+predictive+maintenance+dataset), you have to train and test the Naïve Bayes, KNN, HT, HAT, ARF, Online Bagging, Leveraging Bagging, ARF, and SRP models in tinyMOA-lite on a Raspberry Pi simulator, and in MOA and River on your Pc.
 About the data ingestion to the Raspberry Pi, follow the way it was done in the master thesis.
 
 You should use the following metrics to compare the results: Accuracy, Balanced Accuracy, Geometric Mean, and CohenKappa
