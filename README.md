@@ -2,7 +2,7 @@
 
 Optional project of the [Streaming Data Analytics](http://emanueledellavalle.org/teaching/streaming-data-analytics-2023-24/) course provided by [Politecnico di Milano](https://www11.ceda.polimi.it/schedaincarico/schedaincarico/controller/scheda_pubblica/SchedaPublic.do?&evn_default=evento&c_classe=811164&polij_device_category=DESKTOP&__pj0=0&__pj1=d563c55e73c3035baf5b0bab2dda086b).
 
-Student: **[To be assigned]**
+Student: **Luca Negri**
 
 The project will use the [Java library tinyMOA-lite](https://www.politesi.polimi.it/handle/10589/201696) on a Raspberry Pi simulator to solve a classification task. The aim is to train several models on tinyMOA-lite on a Raspberry Pi simulator and to compare their performance w.r.t. the relative models trained on River and MOA.
 
